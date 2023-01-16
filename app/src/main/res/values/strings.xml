@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lista</string>
+    <string name="adding_new_elements_on_list">adding new elements on list</string>
+    <string name="erase_all_elements_of_list" />
+</resources>
